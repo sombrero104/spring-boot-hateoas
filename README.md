@@ -28,6 +28,7 @@ spring-boot-starter-hateoas 의존성 추가<br/>
 <br/>
 
 1. ObjectMapper 제공 (많이 사용.)
+- 제공하는 리소스를 json 형태로 변환할 때 사용.
 - spring.jackson.*
 - Jackson2ObjectMapperBuilder
 2. LinkDiscovers 제공 (사용할 일이 많지 않음.)

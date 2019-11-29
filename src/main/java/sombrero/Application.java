@@ -24,6 +24,9 @@ public class Application {
      * ○ Relation
      * ○ Hypertext Reference)
      *
+     * 예) relation=>'나 자신이다.', ref=>'/(루트)'
+     *    relation=>'books', ref=>'/books'
+     *
      * ● spring-boot-starter-hateoas 의존성 추가
      *
      * ● https://spring.io/understanding/HATEOAS

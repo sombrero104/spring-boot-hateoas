@@ -29,7 +29,8 @@ spring-boot-starter-hateoas 의존성 추가<br/>
 
 1. ObjectMapper 제공 (많이 사용.)
 - 제공하는 리소스를 json 형태로 변환할 때 사용.
-- spring.jackson.*
+- spring.jackson.* 라이브러리 사용.
+- spring-boot-starter-web 의존성만 추가해도 자동으로 빈으로 등록됨.
 - Jackson2ObjectMapperBuilder
 2. LinkDiscovers 제공 (사용할 일이 많지 않음.)
 - 클라이언트 쪽에서 링크 정보를 Rel 이름으로 찾을때 사용할 수 있는 XPath 확장 클래스

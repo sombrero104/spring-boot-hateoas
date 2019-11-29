@@ -18,7 +18,7 @@ HATEOAS (Hypermedia As The Engine Of Application State)<br/>
 <br/>
 spring-boot-starter-hateoas 의존성 추가<br/>
 <pre>
-[!-- HATEOAS 의존성 추가. --]
+❮!-- HATEOAS 의존성 추가. --❯
 ❮dependency❯
     ❮groupId❯org.springframework.boot❮/groupId❯
     ❮artifactId❯spring-boot-starter-hateoas❮/artifactId❯

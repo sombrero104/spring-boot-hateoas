@@ -17,6 +17,22 @@ HATEOAS (Hypermedia As The Engine Of Application State)<br/>
 </pre>
 <br/>
 spring-boot-starter-hateoas 의존성 추가<br/>
+<pre>
+<!-- HATEOAS 의존성 추가. -->
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-hateoas</artifactId>
+</dependency>
+</pre>
+위 처럼 의존성을 추가하게 되면 아래 두가지를 제공한다.<br/>
+
+1. ObjectMapper 제공
+- spring.jackson.*
+- Jackson2ObjectMapperBuilder
+2. LinkDiscovers 제공
+- 클라이언트 쪽에서 링크 정보를 Rel 이름으로 찾을때 사용할 수 있는 XPath 확장 클래스
+<br/>
+
 <br/>
 https://spring.io/understanding/HATEOAS <br/>
 https://spring.io/guides/gs/rest-hateoas/ <br/>

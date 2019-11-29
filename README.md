@@ -9,7 +9,7 @@ HATEOAS (Hypermedia As The Engine Of Application State)<br/>
 <br/>
 연관된 링크 정보 (클라이언트가 리소스에 대한 정보 파악을 할 수 있게 해준다.)<br/>
 - <i><b>Rel</b></i>ation<br/>
-- **_H_**ypertext **_Ref_**erence<br/>
+- <i><b>H</b></i>ypertext <i><b>Ref</b></i>erence<br/>
 <br/>
 <pre>
 예) rel=>'나 자신이다.', href=>'/(루트)'

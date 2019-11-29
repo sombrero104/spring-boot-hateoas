@@ -20,9 +20,9 @@ public class Application {
      * ● 클라이언트:
      *      연관된 링크 정보를 바탕으로 rest API 리소스에 접근한다.
      *
-     * ● 연관된 링크 정보
+     * ● 연관된 링크 정보 (클라이언트가 리소스에 대한 정보 파악을 할 수 있게 해준다.)
      * ○ Relation
-     * ○ Hypertext Reference)
+     * ○ Hypertext Reference
      *
      * 예) relation=>'나 자신이다.', ref=>'/(루트)'
      *    relation=>'books', ref=>'/books'

@@ -33,7 +33,8 @@ spring-boot-starter-hateoas 의존성 추가<br/>
 - spring-boot-starter-web 의존성만 추가해도 자동으로 빈으로 등록됨.
 - Jackson2ObjectMapperBuilder
 2. LinkDiscovers 제공 (사용할 일이 많지 않음.)
-- 클라이언트 쪽에서 링크 정보를 Rel 이름으로 찾을때 사용할 수 있는 XPath 확장 클래스
+- 클라이언트 쪽에서 링크 정보를 Rel 이름으로 찾을때 사용할 수 있는 XPath 확장 클래스.
+JSON에 링크 정보가 있는 경우 Rel 이름으로 해당 링크 정보만 가져올 수 있음.
 <br/>
 
 <br/>

@@ -18,11 +18,11 @@ HATEOAS (Hypermedia As The Engine Of Application State)<br/>
 <br/>
 spring-boot-starter-hateoas 의존성 추가<br/>
 <pre>
-<!-- HATEOAS 의존성 추가. -->
-<dependency>
-    <groupId>org.springframework.boot</groupId>
-    <artifactId>spring-boot-starter-hateoas</artifactId>
-</dependency>
+[!-- HATEOAS 의존성 추가. --]
+❮dependency❯
+    ❮groupId❯org.springframework.boot❮/groupId❯
+    ❮artifactId❯spring-boot-starter-hateoas❮/artifactId❯
+❮/dependency❯
 </pre>
 위 처럼 의존성을 추가하게 되면 아래 두가지를 제공한다.<br/>
 

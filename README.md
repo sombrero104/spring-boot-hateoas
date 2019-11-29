@@ -27,10 +27,10 @@ spring-boot-starter-hateoas 의존성 추가<br/>
 위 처럼 의존성을 추가하게 되면 아래 두가지를 제공한다.<br/>
 <br/>
 
-1. ObjectMapper 제공
+1. ObjectMapper 제공 (많이 사용.)
 - spring.jackson.*
 - Jackson2ObjectMapperBuilder
-2. LinkDiscovers 제공
+2. LinkDiscovers 제공 (사용할 일이 많지 않음.)
 - 클라이언트 쪽에서 링크 정보를 Rel 이름으로 찾을때 사용할 수 있는 XPath 확장 클래스
 <br/>
 

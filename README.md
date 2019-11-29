@@ -25,7 +25,7 @@ spring-boot-starter-hateoas 의존성 추가<br/>
 ❮/dependency❯
 </pre>
 위 처럼 의존성을 추가하게 되면 아래 두가지를 제공한다.<br/>
-
+<br/>
 1. ObjectMapper 제공
 - spring.jackson.*
 - Jackson2ObjectMapperBuilder

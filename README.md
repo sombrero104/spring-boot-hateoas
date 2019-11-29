@@ -8,8 +8,8 @@ HATEOAS (Hypermedia As The Engine Of Application State)<br/>
      연관된 링크 정보를 바탕으로 rest API 리소스에 접근한다.<br/>
 <br/>
 연관된 링크 정보 (클라이언트가 리소스에 대한 정보 파악을 할 수 있게 해준다.)<br/>
-- <i><b>Rel</b></i>ation<br/>
-- <i><b>H</b></i>ypertext <i><b>Ref</b></i>erence<br/>
+- <i><b>Rel</b></i>ation (rel)<br/>
+- <i><b>H</b></i>ypertext <i><b>Ref</b></i>erence (href)<br/>
 <br/>
 <pre>
 예) rel=>'나 자신이다.', href=>'/(루트)'
